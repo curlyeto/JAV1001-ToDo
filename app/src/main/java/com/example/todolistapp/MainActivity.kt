@@ -1,7 +1,8 @@
 /*
     NAME: ERTUGRUL SAHIN , JOHN OLAYENI , LEVI MAXWELL
     STUDENT NUMBER : A00270022, A00260853 , A00263436
-    DESCRIPTION :
+    DESCRIPTION : The todo list application receives an input from the user. We add the value I get from the user to the listview. 
+    The user can see this value instantly as a list. If he wants, he can delete the value he added.
  */
 
 
