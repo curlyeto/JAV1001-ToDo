@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TodoListApp</string>
+    <string name="add_button_text">Add</string>
+
+</resources>
